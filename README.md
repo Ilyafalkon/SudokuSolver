@@ -1,5 +1,5 @@
 # SudokuSolver
-Task is to have a solved Sudoku in the output.
+A task is to have a solved Sudoku puzzle in the output.
 
 ### Input. 
 ```
